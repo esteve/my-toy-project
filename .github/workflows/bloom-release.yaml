@@ -33,7 +33,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.BLOOM_GITHUB_TOKEN }}
 
-      - uses: esteve/bloom-release-action@v1
+      - uses: esteve/bloom-release-action@main
         with:
           mode: prepare
           token: ${{ secrets.BLOOM_GITHUB_TOKEN }}
@@ -51,7 +51,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.BLOOM_GITHUB_TOKEN }}
 
-      - uses: esteve/bloom-release-action@v1
+      - uses: esteve/bloom-release-action@main
         with:
           mode: release
           token: ${{ secrets.BLOOM_GITHUB_TOKEN }}
