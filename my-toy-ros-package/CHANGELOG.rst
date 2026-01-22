@@ -1,3 +1,10 @@
+1.1.0 (2026-01-22)
+------------------
+* feat: change value in multiply a fourth time
+* feat: change value in multiply a third time
+* Contributors: Esteve Fernandez
+
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package my-toy-ros-package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
