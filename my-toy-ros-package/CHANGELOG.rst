@@ -1,3 +1,16 @@
+2.0.0 (2026-01-23)
+------------------
+* feat!: change value in multiply number eleven
+* feat!: change value in multiply number eight
+* feat: change value in multiply number twelve
+* feat: change value in multiply number seven
+* feat: change value in multiply a fifth time
+* feat: change value in multiply a fourth time
+* feat: change value in multiply a third time
+* ci: fix git checkout, use full history
+* Contributors: Esteve Fernandez
+
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package my-toy-ros-package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
